@@ -1,0 +1,8 @@
+
+.bg-image {
+    background-image: url('C:\xampp\htdocs\FMS\images\geu.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
